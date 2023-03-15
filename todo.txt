@@ -1,0 +1,11 @@
+To-Do:
+What data can be extracted from what API
+What data to extract
+Start extracting/storing relevant data
+Log how to obtain/store data
+Visualization, normalization, data hygiene
+
+In Progress:
+
+
+Finished:
