@@ -1,11 +1,13 @@
 To-Do:
-What data can be extracted from what API
-What data to extract
-Start extracting/storing relevant data
+***Match data***
+Summoner account data
+(Champion mastery data)
 Log how to obtain/store data
 Visualization, normalization, data hygiene
 
 In Progress:
-
+Start extracting/storing relevant data
 
 Finished:
+Champion data collection/cleaning
+Item data collection/cleaning
